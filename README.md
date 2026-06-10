@@ -35,11 +35,92 @@ public class Elavarasa {
 
 ---
 
-## 💻 Tech Arsenal
+# 💻 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,javascript,git,github,vscode,eclipse" />
-</p>
+<table>
+<tr>
+<td valign="top" width="25%">
+
+### 🖥️ Languages
+
+<img src="https://skillicons.dev/icons?i=java" /><br>
+<img src="https://skillicons.dev/icons?i=python" /><br>
+<img src="https://skillicons.dev/icons?i=c" /><br>
+<img src="https://skillicons.dev/icons?i=cpp" /><br>
+<img src="https://skillicons.dev/icons?i=javascript" />
+
+</td>
+
+<td valign="top" width="25%">
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html" /><br>
+<img src="https://skillicons.dev/icons?i=css" /><br>
+<img src="https://skillicons.dev/icons?i=javascript" /><br>
+<img src="https://skillicons.dev/icons?i=bootstrap" /><br>
+<img src="https://skillicons.dev/icons?i=react" />
+
+</td>
+
+<td valign="top" width="25%">
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=spring" /><br>
+<img src="https://skillicons.dev/icons?i=nodejs" /><br>
+<img src="https://skillicons.dev/icons?i=hibernate" />
+
+</td>
+
+<td valign="top" width="25%">
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql" /><br>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git" /><br>
+<img src="https://skillicons.dev/icons?i=github" /><br>
+<img src="https://skillicons.dev/icons?i=postman" />
+
+</td>
+
+<td valign="top" width="33%">
+
+### 🖱️ IDEs
+
+<img src="https://skillicons.dev/icons?i=vscode" /><br>
+<img src="https://skillicons.dev/icons?i=eclipse" /><br>
+<img src="https://skillicons.dev/icons?i=idea" />
+
+</td>
+
+<td valign="top" width="33%">
+
+### 📚 Currently Learning
+
+🌱 Spring Boot
+
+🌱 DSA
+
+🌱 System Design
+
+🌱 AI & Machine Learning
+
+</td>
+</tr>
+</table>
 
 ---
 
